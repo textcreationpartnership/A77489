@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Réponse aux objections que l'on fait contre le retablissement de l'Edit de Nantes, par raport à la paix generale que l'on traite. / Par C. B. O. D. N. ; suivant la copie imprimée en Hollande.</title>
+            <author>C. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77489</idno>
+            <idno type="STC">Wing B46A</idno>
+            <idno type="STC">ESTC R175486</idno>
+            <idno type="EEBO-CITATION">45097506</idno>
+            <idno type="OCLC">ocm 45097506</idno>
+            <idno type="VID">171126</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77489)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171126)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2559:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Réponse aux objections que l'on fait contre le retablissement de l'Edit de Nantes, par raport à la paix generale que l'on traite. / Par C. B. O. D. N. ; suivant la copie imprimée en Hollande.</title>
+                  <author>C. B.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Se vend par C. Lucas, demeurant dans les Black-Fryers, auprès de la Riviere, vis-à-vis la Couronne,</publisher>
+                  <pubPlace>A Londres. :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fre">fre</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>France. --  Edit de Nantes.</term>
+               <term>Protestants --  France.</term>
+               <term>France --  History --  Louis XIV.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="fre">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171126:1"/>
+            <pb facs="tcp:171126:1" rendition="simple:additions"/>
+            <p>REPONSE AUX OBJECTIONS Que l'on fait contre le RETABLISSEMENT <hi>De l'Edit de NANTES,</hi> Par raport à la Paix Generale que l'on traite.</p>
+            <p>
+               <hi>Par C. B. O. D. N.</hi>
+            </p>
+            <p>
+               <hi>Suivant la Copie Imprimée en Hollande.</hi>
+            </p>
+            <p>A LONDRES.</p>
+            <p>Se vend par C. Lucas, demeurant dans les <hi>Black-Fryers,</hi> auprès de la Riviere, vis-à-vis la Couronne, 1697.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:171126:2" rendition="simple:additions"/>
+            <opener>
+               <dateline>De la Haye <date>le 1<hi rend="sup">r</hi>. Juillet <hi>1697.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>LEs Ambaſſadeurs de l'Empereur &amp; des autres Princes Temporels Catholiques Romains, aſſemblez ici pour traiter de la Paix Generale, ne faiſant pas mention dans leurs Propoſitions de pluſieurs points Eccle<g ref="char:EOLhyphen"/>ſiaſtiques, les Ambaſſadeurs &amp; Miniſtres des Electeurs &amp; Princes Spirituels de la mê<g ref="char:EOLhyphen"/>me Communion, prétendant aucontraire qu'on en traite, en ont porté leurs Remon<g ref="char:EOLhyphen"/>trances aux Imperiaux; d'autant plus que le Roi d'Angleterre &amp; les autres Princes Pro<g ref="char:EOLhyphen"/>teſtans, demandent que le Roi de France ré<g ref="char:EOLhyphen"/>tabliſſent l'Edit de Nantes &amp; les Proteſtans, Francois Refugiez, dans leurs Privileges &amp; Biens; à quoy ces premiers ayant repondu qu'on en traiteroit à la fin, Monſieur le Ba<g ref="char:EOLhyphen"/>ron de Lilienroot, Ambaſſadeur Mediateur a repliqué qu'il falloit traiter également des Points Eccleſiaſtiques &amp; Politiques; Sur quoi quelqu'un qui s'oppoſe au rétabliſſement de l'Edit de Nantes, <hi>&amp;c.</hi> ayant fait courir des Objections qu'ils alleguent contre, on y a repondu. Nous vous envoyons les uns &amp; les autres, &amp; nous aurons ſoin de vous inſtruire de tout ce qui ſe paſſera ſur ce ſujet.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:171126:2"/>
+            <head>REPONSE AUX OBJECTIONS Que l'on fait contre le Rètabliſſement de l'Edit de NANTES.</head>
+            <div n="1" type="objection">
+               <head>I OBJECTION.</head>
+               <p>
+                  <hi>La Politique veut que chaque Roi faſſe enſorte qu'il n'y ait qu'une Religion dans ſon Royaume.</hi>
+               </p>
+               <p>REPONSE.</p>
+               <p n="1">1. TOUS les Princes qui ont autrefois afflige l'Egliſe, qui ſervoit Dieu avec pureté ſelon ſa parole, ſe propoſoient auſſi d'abolir la diverſité de Religion dans leurs Etats: mais cette conduite n'a jamais eu une ſuite heureuſe. II. Dans les Etats, oû tout le Peuple a embraſſé la Réformation, on a bien pris des meſures pour empêcher que la Religion C. R. ne s'y établiſſe. Mais dans ceux où il y a des Catholi<g ref="char:EOLhyphen"/>ques Romains déja établis, comme en Angleterre, en Ecoſſe, en Irlande, &amp; dans les Provinces Unies, on les y laiſſe en repos: &amp; jamais dans les Etats Prote<g ref="char:EOLhyphen"/>ſtans on n'employe la violance pour forcer les Ca<g ref="char:EOLhyphen"/>tholiques Romains à embraſſer la Reformation, parce que cette conduite eſt contraire à l'Eſprit du Chriſtia<g ref="char:EOLhyphen"/>niſme: Il n'y a que Dieu qui ait l'Empire ſur<g ref="char:punc">▪</g> les Con<g ref="char:EOLhyphen"/>ſciences. III. Les plus ſages mémes d'entre les Em<g ref="char:EOLhyphen"/>pereurs Payens ont reconnu qu'il étoit de l'intereſt de l'Etat de ne pas géner les Conſciences, &amp; de laiſ<g ref="char:EOLhyphen"/>ſer vivre chaque Peuple dans le libre exercice de ſa Religion. IV. Les Proteſtans de France ont des Edits &amp; des Traitez accordez ou confirmez par Fran<g ref="char:EOLhyphen"/>cois
+<pb n="4" facs="tcp:171126:3"/> II. Charles IX. Henri III. Henri IV. Louis XIII. &amp; Louis XIV. &amp; dont l'obſervation a même été plu<g ref="char:EOLhyphen"/>ſieurs fois ſolemnellement jurée dans tout le Royau<g ref="char:EOLhyphen"/>me. Or ces Edits &amp; ces Traitez ſont des Engage<g ref="char:EOLhyphen"/>mens ſacrez &amp; inviolables.</p>
+            </div>
+            <div n="2" type="objection">
+               <head>
+                  <hi>II. Object.</hi> Chaque Roi etant perſuadè que ſa Re<g ref="char:EOLhyphen"/>ligion eſt la meilleure, on ne doit pas trouver mauvais qu'il faſſe tout ce qu'il peut pour porter tous ſes Sujets á l'embraſſer.</head>
+               <p>Rep. I. Il peut employer pour cela les Inſtru<g ref="char:EOLhyphen"/>ctions, mais non la Violence. II. Il doit permet<g ref="char:EOLhyphen"/>tre à ſes Sujets de juſtifier leur Doctrine par la Pa<g ref="char:EOLhyphen"/>role de Dieu: mais c'eſt ce que l'on ne veut pas ſou<g ref="char:EOLhyphen"/>frir en France. Lors même qu'on y fait mourir ceux qui s'aſſemblent pour y ſervir Dieu ſelon ſa Parole, on fait battre pluſieurs Tambours, afin que les Mar<g ref="char:EOLhyphen"/>tyrs ne puiſſent faire connoître leur Innocence &amp; leur Pieté en mourant. Cette conduite paroîtra toûjours fort ſuſpecte aux Perſonnes qui ne ſe laiſſent pas pré<g ref="char:EOLhyphen"/>venir par la paſſion. III Il ne ſuffit pas de dire qu'<g ref="char:EOLhyphen"/>on a l'intention bonne: les Egyptiens, Antiochus l'll<g ref="char:EOLhyphen"/>lùſtre, les Juifs &amp; les Payens pretendoient avoir une bonne intention en opprimant le Peuple de Dieu; mais cela ne les excuſoit point. J. Chriſt a même pre<g ref="char:EOLhyphen"/>dit que ceux qui feroient mourir les Fidèles, penſe<g ref="char:EOLhyphen"/>roient faire un ſervice à Dieu. Jean 16.2. Cependant cela ne les excuſe ni devant Dieu, ni devant les hom<g ref="char:EOLhyphen"/>mes.</p>
+            </div>
+            <div n="3" type="objection">
+               <head>
+                  <hi>III. Object.</hi> La diverſité des Religions donne lieu á des diviſions dans un Etat.</head>
+               <p>Rep. I. On accuſoit Elie de cauſer du trouble dans le Royaume d'Iſraël. On imputoir de ſemblables crimes à J. Chriſt lui-même, à ſes Apôtres &amp; aux premiers Chrétiens. II. Quand la diverſité des Reli<g ref="char:EOLhyphen"/>gions
+<pb n="5" facs="tcp:171126:3"/> ſe trouve dèja établie dans un Royaume, ce n'eſt pas le moyen d'y aſſurer la tranquillité publi<g ref="char:EOLhyphen"/>que, que de mettre tout dans le trouble &amp; dans la confuſion, en voulant forcer des millions d'Ames à embraſſer une Religion qu'elle croit manifeſtement contraire à la Parole de Dieu. III. Il ne dépend pas des hommes d'empêcher la diverſité des Religions: c'eſt Dieu ſeul qui peut l'empêcher par ſa grace. Mais ſur tout, lors qu'il lui plaît d établir ſon Re<g ref="char:EOLhyphen"/>gne de Lumiere &amp; de grace dans le monde, les hom<g ref="char:EOLhyphen"/>mes ne ſauroient détruire ſon oeuvre, &amp; ceux qui l'en<g ref="char:EOLhyphen"/>treprennent, doivent prendre garde qu'ils ne ſoient trouvez lui faire la guerre.</p>
+            </div>
+            <div n="4" type="objection">
+               <head>
+                  <hi>IV. Object.</hi> Lors que les Princes ſont mécontens en France, ils trouvent toujours un parti formé par<g ref="char:EOLhyphen"/>mi les Protestans Francois.</head>
+               <p>Rep. Lors que le Duc d'Orleans, ſoûtenu par le Duc de Montmorenci, voulut détrôner Louis XIII. les Proteſtans Francois firent avorter ſon deſſein par leur inviolable Fidelité. Lors que le Prince de Condé voulut enſuite ôter la Couronne a Louis XIV. les Proteſtans de France rendirent tous ſes éforts inuti<g ref="char:EOLhyphen"/>les, nonobſtant les promeſſes avantageuſes qu'il leur faiſoit. Lors qu'on a vû un ſoulevemerit trés-dange<g ref="char:EOLhyphen"/>reux dans la Province de Languedoc à l'occaſion des nouveaux Impots, les Proteſtans en ont auſſi arrêtê les ſuites par leur Fidelité. On peut donc dire que le Roi de France n'a pas des Sujets plus Fidéles &amp; plus zelez pour ſon Service, que ſes Sujets Proteſtans.</p>
+            </div>
+            <div n="5" type="objection">
+               <head>
+                  <hi>V. Object.</hi> Tous les Protestans de France ont em<g ref="char:EOLhyphen"/>braſſé la Religion Catholique Romaine.</head>
+               <p>Rep. La Violence avoit arraché de leur bouche quel<g ref="char:EOLhyphen"/>que Parole contraire aux ſentimens de leur propre
+<pb n="6" facs="tcp:171126:4"/> coeur: mais toute la Terre eſt deja informée que tout ce Peuple a depuis long-tems renoncé à la Commu<g ref="char:EOLhyphen"/>nion Romaine, dans laquelle il n'étoit entré que par force; &amp; qu'il gemit ſans ceſſe dans la Captivitè où il ſe trouve maintenant, n'ayant pas la liberté de s'aſſembler pour ſervir Dieu ſelon ſa Parole, Lors que les Paſteurs vont prêcher en France, de cent per<g ref="char:EOLhyphen"/>ſonnes qui avoient ſuccombé ſous la Violence de la Perſecution, à peine s'en trouve t-il une ſeule qui ne vienne pas dans les ſaintes Aſſemblées. Temoin tant de gens Maſſacrez, ou condamnez au Fouet, aux Gal<g ref="char:EOLhyphen"/>leres, ou à la Mort.</p>
+            </div>
+            <div n="6" type="objection">
+               <head>
+                  <hi>VI. Object.</hi> Les Edits ont donné lieu à un grand nombre de Procez.</head>
+               <p>Rep. Si on eut conſervé les Chambres de l'Edit, &amp; témoigné vouloir faire obſerver religieuſement l'E<g ref="char:EOLhyphen"/>dit de Nantes, on n'auroit point vû de Procez au ſu<g ref="char:EOLhyphen"/>jet de la Religion: &amp; s'il y en eût eu, la Juſtice les auroit reprimez. Mais lors que le Clergé a vû qu'on avoit formé le deſſein de renverſer les Edits &amp; de les abolir, en faiſant ſemblant de les obſerver, &amp; en pre<g ref="char:EOLhyphen"/>nant la voye d'une juſtice apparente, les Procez, les Chicanes, les Calomnies, les faux temoignages, &amp; les Injuſtices ont rempli de trouble tout le Royaume.</p>
+            </div>
+            <div n="7" type="objection">
+               <head>
+                  <hi>VII. Object.</hi> Les Edits avoient été obtenus dans les troubles de la Guerre.</head>
+               <p>Rep. I. Ce n'étoient pas les Proteſtans qui cau<g ref="char:EOLhyphen"/>ſoient ces troubles, mais ceux qui mettoient tout en oeuvre pour les exterminer par le fer &amp; par le feu. II. Lors qu'il arrive du trouble dans un Etat, ſi on ne pouvoit pas le pacifier par des Edits &amp; par des Trai<g ref="char:EOLhyphen"/>tez, &amp; qu'on ne pût s'aſſurer que ces Edits &amp; ces Traitez, lors même qu'ils ont été ſolemnellement ju<g ref="char:EOLhyphen"/>rez
+<pb n="7" facs="tcp:171126:4"/> dans tout le Royaume, ſeront obſervez; il n'y au<g ref="char:EOLhyphen"/>roit plus de remede au mal, &amp; il faudroit pouſſer les choſes aux dernierse extremitez. III. Lors que de pa<g ref="char:EOLhyphen"/>reils malheurs arrivent, il faut punir ſeverement ceux qui ſont les aggreſſeurs: mais dès que les troubles ſont pacifiez par des paroles reſpectives, par des Edits &amp; par des Traitez, il faut les obſerver de bonne Foi. La maxime contraire ne ſauroit qu'être pernicieuſe à un Etat. IV. Les Gabaonites avoient obtenu par trom<g ref="char:EOLhyphen"/>perie le Traité que Joſué leur avoit accordé. C'étoit par force que Sedecias Roi de Juda avoit traité avec Nebucadnetſar, qui étoit un Oppreſſeur. Cependant Dieu punit d'une maniere offroyable l'infraction de l'un &amp; de l'autre de ces deux Traitez. L'Edit de Nan<g ref="char:EOLhyphen"/>tes fut même donné en pleine Paix, comme il paroît par l'Hiſtoire, &amp; par l'Edit même. Or 1. Cet Edit étoit <hi>juſte</hi> en lui-même, &amp; <hi>neceſſaire</hi> pour la tranquillité Publique, &amp; pour le bien de l'Etat, comme l'évene<g ref="char:EOLhyphen"/>ment l'a montre;. 2. Puis qu'il tenoit la place des pre<g ref="char:EOLhyphen"/>cedens Edits, qui étoient fondez ſur des <hi>Traitez ſignez de part &amp; d'autre,</hi> &amp; ſolemnellement <hi>jurez</hi> dans tout le Royaume, il ne pouvoit point être revoqué. 3. Il paroît par la Preface de cet Edit, qu'il fut fait après des <hi>Conferences</hi> faites entre les Catholiques Romains &amp; les Proteſtans, pour convenir entr'eux des choſes juſtes, raiſonnables, &amp; neceſſaires pour le Bien Public. C'étoit donc une Tranſaction entr'eux, auſſi bien qu'un Engagement ſolemnel de la Foi Royale. 4. En effet dans la même Preface, Henri IV. <hi>promet</hi> de le faire inviolablement obſerver. Ce ne ſont pas les ter<g ref="char:EOLhyphen"/>mes des Edits revocables de leur nature. 5. Dans l'ar<g ref="char:EOLhyphen"/>ticle 91. cet Edit eſt expreſſement declaré <hi>perpetuel &amp; irrevocable.</hi> 6. L'Obſervation de cet Edit fut ſo<g ref="char:EOLhyphen"/>lemnellement <hi>jurée</hi> par tous les Corps de Juſtice &amp; de Police du Royaume. Quoi de plus ſacré? 7 Louis XIII. le <hi>confirma</hi> enſuite en pleine Paix par ſes Decla<g ref="char:EOLhyphen"/>rations de 1610. &amp; 1614. 8. Cet Edit fût encore
+<pb n="8" facs="tcp:171126:5"/> 
+                  <hi>confirmè</hi> dans le 1. Article du Traité de Paix 1626. dont le Roi de la Grand' Bretagne ſe rendit <hi>Garant</hi> du conſentement de la France. 9. Il a èté auſſi <hi>confirmé</hi> en pleine Paix par Louis XIV. dans ſes Declarations de 1643. &amp; 1652. même en recompenſe du Service ſignalé que ſes Sujets Proteſtans lui avoient rendu, lors qu'il avoit falu lui conſerver la Couronne, com<g ref="char:EOLhyphen"/>me il paroît par la derniere de ces deux Declarations, qui rend un autentique temoignage de leur Fidelité. 10. Enfin Sa Majeſté T. C. promit même à feu Mon<g ref="char:EOLhyphen"/>ſieur l'Electeur de Brandebourg, de le faire inviola<g ref="char:EOLhyphen"/>blement obſerver, comme il paroît par la <hi>Lettre</hi> qu'il lui écrivit à ce ſujet en l'année 1666. Si après tous ces Engagemeus ſolemnels le repos d'un grand Peuple n'étoit pas aſſuré, il n'y auroit deſormais rien de ſeur, de ſacré, &amp; d'inviolable parmi les hommes.</p>
+            </div>
+            <div n="8" type="objection">
+               <head>
+                  <hi>VIII. Object.</hi> Les Catholiques Romains ſont exclus des Charges dans les Etats Protestans.</head>
+               <p>Rep. I. S'ils avoient des Edits &amp; des Traitez, &amp; qu'on les violât, ils auroient ſujet de ſe plaindre: mais cela n'eſt point. II. On ſait que les Complots que les Jeſuites ont ſouvent fait en Angleterre, pour y bou<g ref="char:EOLhyphen"/>leverſer l'Etat, afin d'y regner eux-mêmes; ou qu'ils ont fait auſſi quelquefois dans des places importantes de Hollande: ce qui eſt cauſe qu'on ne juge pas à propos de mettre les Charges de l'Etat entre les mains des Catholiques Romains, qui ont de tels Directeurs de Conſcience. Mais les Proteſtans de France ſont toujours contens quand on les laiſſe prier Dieu: &amp; lors que l'Etat a beſoin de leur ſecours &amp; de leur Fi<g ref="char:EOLhyphen"/>delité, ils ne manquent point à leur devoir. En un mot leurs Edits ſont irrevocables, &amp; neceſſaires même pour le bien de l'Etat, comme l'experience l'a tou<g ref="char:EOLhyphen"/>jours juſtifié.</p>
+            </div>
+            <div n="9" type="objection">
+               <pb n="9" facs="tcp:171126:5"/>
+               <head>
+                  <hi>IX. Object.</hi> Les Rois d'Angleterre, qui ont voul établir la Religion Catholique Romaine, ſe ſon attirez de grands malheurs.</head>
+               <p>Rep. S'il y en a eu quelqu'un, qui ait voulu ren<g ref="char:EOLhyphen"/>verſer les Loix de l'Etat, qu'il avoit promis d'obſerver, &amp; qui n'ait pas eu un heureux ſuccez dans ſon Entre<g ref="char:EOLhyphen"/>priſe, il ne doit ſe plaindre que de lui-mème. Mais enfin ce n'eſt pas une raiſon pour fouler aux Piez des Edits ſacrez &amp; inviolables, dont l'obſervation eſt ne<g ref="char:EOLhyphen"/>ceſſaire en France pour le repos d'un grand Peuple, &amp; pour le bien même de l'Etat.</p>
+            </div>
+            <div n="10" type="objection">
+               <head>
+                  <hi>X. Object.</hi> Les Catholiques Romains ſeroient mécon<g ref="char:EOLhyphen"/>tens en France ſi les Proteſtans y étoient rétablis.</head>
+               <p>Rep. I. On ſait aucontraire que dans tout le Roy<g ref="char:EOLhyphen"/>aume le Peuple Catholique Romain reconnoît que les maux qu'on y a fait ſoufrir aux Proteſtans, ont at<g ref="char:EOLhyphen"/>tiré à la France de grandes Calamitez, &amp; que cette Perſecution eſt la ruine du Royaume. On ſait auſſi que c'eſt le jugement de toutes les perſonnes judicieuſes qui ſont en France. II. Le Roi ayant l'autorité en main n'a qu'à ordonner que l'on puniſſe ſeverement comme Pertubateurs du Repos public, ceux qui con<g ref="char:EOLhyphen"/>treviendront aux Edits, &amp; on verra bien tôt régner par tout un grand calme. III. Mais pour delivrer entierement S. M. T. C. des importunitez des Jeſui<g ref="char:EOLhyphen"/>tes, il importe que les Puiſſances Proteſtantes inter<g ref="char:EOLhyphen"/>viennent dans le retabliſſemènt des Proteſtans Fran<g ref="char:EOLhyphen"/>cois; afin que deſormais leur intervention ſoit un frein à la malice de ces turbulens.</p>
+            </div>
+            <div n="11" type="objection">
+               <head>
+                  <hi>XI. Object.</hi> Si la France retabliſſoit les Proteſtans Francois, il ſeroit juſtes que les Catholiques Ro<g ref="char:EOLhyphen"/>mains jouiſſent <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es mêmes avantages dans les Etats Proteſtans.</head>
+               <pb n="10" facs="tcp:171126:6"/>
+               <p>Rep. I. Les Proteſtans ne ſont pas a craindre dans les Etats Catholiques Romains, comme les Ca<g ref="char:EOLhyphen"/>tholiques Romains dans les Etats Proteſtans. La Fi<g ref="char:EOLhyphen"/>delité des Proteſtans eſt aſſurée: au lieu que les Em<g ref="char:EOLhyphen"/>poiſonnemens, les Aſſaſſinats, les Complots &amp; les Conſpirations de ceux qui dirigent les Conſciences des Catholiques Romains, ſont connues de toutes la Terre, &amp; donnent une juſte defiance aux Puiſſances Proteſtantes. II. Les Catholiques Romains qui ſont en Angleterre, en Ecoſſe, en Irlande, &amp; dans les Provinces Unies, n'y ſouffrent ni Injuſtice, ni Perſe<g ref="char:EOLhyphen"/>cution, ni empêchement dans leurs Exercices. III. Si en France les Proteſtans étoient reduits à s'y aſſem<g ref="char:EOLhyphen"/>bler, ſecretement, les Jeſuites porteroient le Peuple à les Maſſacrer. Il eſt neceſſaire qu'il paroiſſe qu'ils ſont autoriſez à le faire, &amp; qu'il y ait même des Chambres de l'Edit pour punir les contraventions aux Edits. IV. En un mot les Edits &amp; les Traitez accordez aux Proteſtans de France ſont des Loix irrevocables.</p>
+            </div>
+            <div n="12" type="objection">
+               <head>
+                  <hi>XII. Object.</hi> Le Roi de France n'a pas beſoin de la Fidelité de ſes Sujets Proteſtans.</head>
+               <p>Rep. I. Quand il n'en n'auroit pas beſoin, il eſt juſte qu'un Prince protege ſes Sujets, &amp; qu'il les faſſe jouir paiſiblement de leurs Droits, de leurs Li<g ref="char:EOLhyphen"/>bertez, &amp; de leurs Privileges; &amp; ſur tout lors que ces Droits, ces Libertez, &amp; ces Privileges ne ten<g ref="char:EOLhyphen"/>dent, comme en ce cas, qu'à rendre ceux á qui ils ont été accordez, égaux á leurs Concitoyens, qui ne ſont pas plus Fidèles qu'eux, &amp; qui ne contribuent pas plus qu'eux aux Charges de l'Etat, &amp; a faire fleurir le Commerce. II. Il a bien paru dans le beſoin ſi la fidelité des Proteſtans de France a été inutile Henri IV. à Louis XIII. &amp; à Louis XIV.</p>
+            </div>
+            <div n="13" type="objection">
+               <pb n="11" facs="tcp:171126:6"/>
+               <head>
+                  <hi>XIII. Object.</hi> La Cour de Rome trouveroit mau<g ref="char:EOLhyphen"/>vais que les Proteſtans de France fuſſent rétablis.</head>
+               <p>Rep. I. Ce n'eſt pas l'affaire de la Cour de Rome. II. La Cour de Rome n'empêcha pas que par la Paix de Munſter &amp; par le Traité d'Oſnabrug tous les Pro<g ref="char:EOLhyphen"/>teſtans Lutheriens &amp; Reformez ne fuſſent rétablis dans toute l'étenduê de l'Empire ſur le pié des an<g ref="char:EOLhyphen"/>ciens Traitez. La France même procura ce rétabliſ<g ref="char:EOLhyphen"/>ſement, &amp; entra pour beaucoup dans la ſeculariſa<g ref="char:EOLhyphen"/>tion de pluſieurs Archevêchez &amp; Evêchez en faveur des Proteſtans. Pourquoi donc s'agiſſant aujour<g ref="char:EOLhyphen"/>d'hui de donner la Paix à toute l'Europe, laiſſeroit on dans le trouble, des millions d'Innocens, qui ge<g ref="char:EOLhyphen"/>miſſent depuis long tems en France, ou dans leur diſperſion, au prejudice des Edits &amp; des Traitez les plus ſolemnels, &amp; les plus ſacrez, qui puiſſent être faits entre les hommes? L'interêt même de la France ne demande-il pas qu'un ſi grand Peuple ſoit com<g ref="char:EOLhyphen"/>pris dans cette Paix generale?</p>
+            </div>
+            <div n="14" type="objection">
+               <head>
+                  <hi>XIV. Object.</hi> Le melange des Religions eſt fort propre à faire naître des ſcrupules dans l'ame, &amp; à jetter dans l'Irreligion.</head>
+               <p>Rep. I. C'eſt en forcant les gens â Profeſſer mal<g ref="char:EOLhyphen"/>gré eux une Religion qu'ils condamnent dans le coeur, qu'on les jette dans l'Impieté, &amp; qu'on fait même naître des doutes dans l'eſprit des Catholiques Ro<g ref="char:EOLhyphen"/>mains, qui ont quelques lumieres; qui voyent qu'on force les gens de profaner leurs plus grand<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Myſteres, &amp; qui ſavent que cette conduite eſt contraire á l'eſ<g ref="char:EOLhyphen"/>prit du Chriſtianiſme. II. Il y a toujours eu des Im<g ref="char:EOLhyphen"/>pies dans le monde: mais on oſe dire que le nombre de ceux qui vivent dans l'Irreligion, a toujours étê fort petit parmi les Proteſtans de France. III Le vrai moyen de faire ceſſer l'Impieté, eſt de faire prêcher
+<pb n="12" facs="tcp:171126:7"/> le pur Evangile de J. Chriſt. IV. Enfin s'il n'y avoit point de Proteſtans en France, on pourroit prendre telles meſures qu'on voudroit, pour empêcher qu'il en vint d'ailleurs. Mais lors qûe le Roi a été élevé ſur le Trône, il a trouvé en France un grand Peuple, qui etoit établi depuis long tems; qui avoit des Edits &amp; des Traitez inviolables, que S. M. a promis Elle<g ref="char:EOLhyphen"/>même de maintenir; qui ne fait tort â Perſonnne, qui vit en la crainte de Dieu, qui le ſert avec purete ſelon ſa Parole, &amp; qui ne s'eſt pas rendu indigne de l'amour &amp; de la Protection de ſon Monarque, puis que dans des occaſions importantes, il lui a donné des preuves ſignalées de ſa Fidelité.</p>
+            </div>
+            <trailer>FIN.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>AVERTISSEMENT.</head>
+            <p>ON donnera tous les 15. jours, le Journal de ſe qui ce paſſera dans les Conferences du Congrez, qui ſe tiennent à Riſwick, au ſujet de la Paix; &amp; ces Ob<g ref="char:EOLhyphen"/>jections avec leur Reponſe ſeront continuées d'être imprimées, ſitôt qu'elles paroîtront.</p>
+            <p>Le Public eſt auſſi averti, que ſi quelqu'un ſouhai<g ref="char:EOLhyphen"/>te de faire imprimer, Savoir, Billets d'Adreſſes, d'Eau de la Reyne d'Hongrie, où de toutes ſortes d'autres Pieces; peuvent s'adreſſer au Sieur Lucas Imprimeur, demeurant dans les <hi>Black Fryers</hi> auprés de la Riviere, vis-à-vis la Couronne, il le fera pour un prix raiſonnable: Il entreprend auſſi de petites Pieces en s'accommodant avec l'Aúteur. Il mettra au jour le 10. Juillet 1697. un petit Alphabet, pour l'Inſtruction des jeunes Enfans, d'un gros Caractere &amp; retouché ſur le langage d'aujourd'hui, pour un ſol la piece, &amp; il les donnera à un juſte prix a ceux qui en voudrout acheter en gros.</p>
+            <pb facs="tcp:171126:7"/>
+         </div>
+      </back>
+   </text>
+</TEI>
